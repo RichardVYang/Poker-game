@@ -1,2 +1,2 @@
-# Recursion
-How to use recursion in Java
+# Sorting and ordering
+How to sort and order items in Java
