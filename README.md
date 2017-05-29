@@ -1,2 +1,2 @@
-# Sorting and ordering
-How to sort and order items in Java
+# Poker game
+Poker game with Java using enum, ArrayList, and HashMap.
